@@ -1,6 +1,6 @@
 # WQ-University-Data-Science-labs-
 
-**This repository contains projects done by me in data science labs of WQ university. The projects shown here are not complete and do not contain dataset and are merely to show my learning and progress.
+**This repository contains mini projects done by me in Applied Data Science Labs of WQ university. The projects shown here are not complete and do not contain dataset and are merely to show my learning and progress.
 
 #	Project 1
 In this project, you'll work with a dataset with 21,000 properties for sale in Mexico through the real estate website Properati.com. Your goal is to determine whether sale prices are influenced more by property size or location.
