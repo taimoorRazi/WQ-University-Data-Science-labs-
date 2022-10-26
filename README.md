@@ -69,3 +69,17 @@ If you're interested in learning more about this dataset, or clustering in gener
 
 Hennig, C., & Liao, T. F. (2013). "How to find an appropriate clustering for mixed-type variables with application to socio-economic stratification." Journal of the Royal Statistical Society: Series C (Applied Statistics), 62(3), 309–369. https://doi.org/10.1111/j.1467-9876.2012.01066.x
 Tatsat, H., Puri, S., & Lookabaugh, B. (2020). Machine learning and data science blueprints for finance: From building trading strategies to robo-advisors using Python. O’Reilly. https://github.com/tatsath/fin-ml.
+
+# Project 7 (AB Testing)
+You've made it to Project 7, and now WQU needs your help to improve its programs! Nicholas and the team have noticed that many applicants to the DS Lab never complete the admissions quiz. In this project, you'll design and conduct an experiment to see if we can increase quiz completion.
+
+First, you'll explore the DS Lab applicant pool, and formulate a research question and hypothesis. Then you'll run your experiment and analyze the results. Finally, you'll build an interactive web application so that others can run the same experiment.
+
+This project is an example of A/B testing, also known as a randomized controlled experiment. In the private sector, A/B tests are used improve things like email marketing and product pricing. In politics, they can be used to test campaign messages. Scientists of all kinds use them in their research.
+
+Once you complete this project, you'll be able to:
+
+Build a choropleth map to show the distribution of ADSL students around the world.
+Create a custom Python class to implement ETL processes.
+Design an experiment and analyze the results using a chi-square test.
+Build an interactive web application that follows a three-tiered design pattern.
